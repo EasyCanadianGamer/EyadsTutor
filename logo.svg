@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 32 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-0.18304,-44.3889)">
+<svg width="100%" height="100%" viewBox="0 0 134 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(4.16667,0,0,4.16667,-0.762667,-184.954)">
         <g id="Artboard1" transform="matrix(1,0,0,0.279592,0.18304,44.3889)">
             <rect x="0" y="0" width="32" height="32" style="fill:none;"/>
-            <g transform="matrix(0.0717149,0,0,0.256498,-15.3463,-106.87)">
-                <g transform="matrix(100,0,0,100,635.957,534.468)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="32" height="32"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(0.0717149,0,0,0.256498,-15.3463,-106.87)">
+                    <g transform="matrix(100,0,0,100,635.957,534.468)">
+                    </g>
+                    <text x="215.957px" y="534.468px" style="font-family:'FiraCode-SemiBold', 'Fira Code', monospace;font-weight:600;font-size:100px;">Tutorio</text>
                 </g>
-                <text x="215.957px" y="534.468px" style="font-family:'FiraCode-SemiBold', 'Fira Code', monospace;font-weight:600;font-size:100px;">Tutorio</text>
-            </g>
-            <g transform="matrix(0.0106998,0,0,2.60208,28.6426,-1407.77)">
-                <g transform="matrix(100,0,0,100,275.957,534.468)">
+                <g transform="matrix(0.727521,0,0,2.60208,-129.744,-1407.77)">
+                    <g transform="matrix(100,0,0,100,275.957,534.468)">
+                    </g>
+                    <text x="215.957px" y="534.468px" style="font-family:'FiraCode-SemiBold', 'Fira Code', monospace;font-weight:600;font-size:100px;fill:rgb(5,22,138);">_</text>
                 </g>
-                <text x="215.957px" y="534.468px" style="font-family:'FiraCode-SemiBold', 'Fira Code', monospace;font-weight:600;font-size:100px;fill:rgb(38,50,132);">_</text>
             </g>
         </g>
     </g>
